@@ -19,6 +19,9 @@
     "string-kit": "^0.12.5",
     "tree-kit": "^0.7.0"
   },
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
   "scripts": {
     "test": "tea-time -R dot"
   },
